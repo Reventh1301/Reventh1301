@@ -11,7 +11,7 @@ n<div align="center">
 # Hey there, I'm Reventh 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineering+Student;Embedded+Systems+%7C+IoT+%7C+VLSI;PCB+Design+%7C+ESP32+%7C+STM32;Building+Real-World+Electronics+Projects;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF93C4&center=true&vCenter=true&width=750&lines=Electronics+%26+Communication+Engineering+Student;Building+Real-World+Electronics+Projects;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br>
