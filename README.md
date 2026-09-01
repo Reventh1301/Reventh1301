@@ -1,4 +1,4 @@
-<div align="center">
+n<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:EF93C4,100:F8BBD0&text=REVENTH&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn">
@@ -46,12 +46,10 @@ I'm an Electronics & Communication Engineering student passionate about designin
 
 I enjoy working across **Embedded Systems, IoT, VLSI, PCB Design, and Hardware Prototyping**.
 
-- 🔭 Currently building **IoT & Embedded Systems**
-- ⚡ Interested in **ESP32, STM32 & Microcontrollers**
+- 🔭 Currently building **IoT **
+- ⚡ Interested in **ESP32,  & Microcontrollers**
 - 🔌 Exploring **PCB Design & Hardware Development**
-- 💻 Learning **VLSI & Verilog HDL**
 - 📡 Interested in **IoT, Sensors & Wireless Communication**
-- 🧠 Exploring **AI + Embedded Systems**
 - 🚀 Goal: Build reliable, innovative real-world engineering solutions
 - 💗 Always learning. Always building.
 
@@ -157,23 +155,10 @@ github-contribution-grid-snake.svg from the contribution graph.
 <tr>
 <td width="50%" align="center">
 
-### ⚡ GRIDGUARD X
-
-IoT-Based Transformer Health Monitoring and Early Warning System.
-
-**ESP32 · Sensors · IoT · GSM · Mobile App**
-
-<a href="https://github.com/USERNAME/PROJECT">
-  <img src="https://img.shields.io/badge/View%20Project-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
 
 ### 🔧 Project Placeholder
 
-A placeholder for another embedded, IoT, PCB or VLSI project.
+A placeholder for another embedded, IoT, PCB  project.
 
 **Embedded · Electronics · Hardware**
 
@@ -193,13 +178,9 @@ A placeholder for another embedded, IoT, PCB or VLSI project.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-EF93C4?style=for-the-badge" alt="Embedded Systems"/>
-<img src="https://img.shields.io/badge/IoT-F8BBD0?style=for-the-badge&logoColor=black" alt="IoT"/>
-<img src="https://img.shields.io/badge/VLSI-FF69B4?style=for-the-badge" alt="VLSI"/>
+
 <img src="https://img.shields.io/badge/PCB%20Design-EF93C4?style=for-the-badge" alt="PCB Design"/>
 <img src="https://img.shields.io/badge/ESP32-F8BBD0?style=for-the-badge&logoColor=black" alt="ESP32"/>
-<img src="https://img.shields.io/badge/STM32-FF69B4?style=for-the-badge" alt="STM32"/>
-<img src="https://img.shields.io/badge/Verilog-EF93C4?style=for-the-badge" alt="Verilog"/>
 <img src="https://img.shields.io/badge/Robotics-F8BBD0?style=for-the-badge&logoColor=black" alt="Robotics"/>
 
 </div>
@@ -214,9 +195,6 @@ A placeholder for another embedded, IoT, PCB or VLSI project.
   <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://x.com/USERNAME">
-  <img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=black" alt="X"/>
-</a>
 
 <a href="https://instagram.com/USERNAME">
   <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
